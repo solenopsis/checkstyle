@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<antlib>
+    <taskdef name="checkstyle"
+             classname="org.solenopsis.checkstyle.ant.CheckstyleAntTask">
+    </taskdef>
+</antlib>
